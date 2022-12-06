@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @donhayler
-- 👀 I’m a software engineer interested in clean tech and decarbonization.
-- 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/hayler/
+Hi, I’m @donhayler, a long-time software engineer interested in clean tech and decarbonization.
+
+You can reach me on LinkedIn: https://www.linkedin.com/in/hayler/
 
 <!---
 donhayler/donhayler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
